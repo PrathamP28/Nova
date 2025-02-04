@@ -16,7 +16,7 @@ To install and run Nova, follow these steps:
 
 ```sh
 # Clone the repository
-git clone https://github.com/your-username/nova.git
+https://github.com/PrathamP28/Nova.git
 cd nova
 
 # Install dependencies
