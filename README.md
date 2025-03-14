@@ -64,11 +64,4 @@ We welcome contributions! Please follow these steps:
 3. Make your changes
 4. Submit a pull request
 
-## License
-
-Nova is open-source and available under the [MIT License](LICENSE).
-
-## Contact
-
-For questions or support, reach out to [your email or contact info].
 
